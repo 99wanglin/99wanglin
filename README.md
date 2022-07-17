@@ -14,7 +14,8 @@ I am a third year Computer Science Degree student :student: in Singapore Univers
 
 - :seedling: I am currently assisting SUTD academia to develop a website for them to collect data in their design workshops.
 
-- :zap: In my free time, I enjoy doing outdoor sports and recently cycling has become my favourite sport <img src="https://media.giphy.com/media/Jt67dJ4DjtWg8leRgq/giphy.gif" width="50"/>.
+- :zap: In my free time, I enjoy doing outdoor sports and recently cycling has become my favourite sport.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
