@@ -10,9 +10,11 @@ I am a third year Computer Science Degree student :student: in Singapore Univers
 
 - :telescope: I’m aspiring to be a Full-Stack web developer.
 
+- :point_right: I enjoy taking on new projects even if I have no experience before. Being able to see the results of my efforts being used in an actual product that is deployed drives me to do my best.
+
 - :seedling: I am currently assisting SUTD academia to develop a website for them to collect data in their design workshops.
 
-- :zap: In my free time, I enjoy playing racket sports and love cycling <img src="https://media.giphy.com/media/Jt67dJ4DjtWg8leRgq/giphy.gif" width="50"/>.
+- :zap: In my free time, I enjoy doing outdoor sports and recently cycling has become my favourite sport <img src="https://media.giphy.com/media/Jt67dJ4DjtWg8leRgq/giphy.gif" width="50"/>.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
