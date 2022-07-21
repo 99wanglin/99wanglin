@@ -10,7 +10,7 @@ I am a third year Computer Science Degree student :student: in Singapore Univers
 
 - :telescope: I’m aspiring to be a Full-Stack web developer.
 
-- :point_right: I enjoy taking on new projects even if I have no experience before. Being able to see the results of my efforts being used in an actual product that is deployed drives me to do my best.
+- :point_right: I enjoy taking on new projects even if I have no experience before. My coding journey started only when I entered University and ever since then I have been looking for projects to do, side projects and Undergraduate Research Opportunities(UROP). I wish to be able to learn as much as possible at this early stage.
 
 - :seedling: I am currently assisting SUTD academia to develop a website for them to collect data in their design workshops.
 
