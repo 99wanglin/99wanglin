@@ -8,7 +8,7 @@
 ### :man_technologist: About Me :
 I am a third year Computer Science Degree student :student: in Singapore University of Technology and Design (SUTD).
 
-- :telescope: I’m aspiring to be a Full-Stack web developer.
+- :telescope: I’m aspiring to be a Software Engineer.
 
 - :point_right: I enjoy taking on new projects even if I have no experience before. My coding journey started only when I entered University and ever since then I have been looking for projects to do, side projects and Undergraduate Research Opportunities(UROP). I wish to be able to learn as much as possible at this early stage.
 
