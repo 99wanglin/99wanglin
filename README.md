@@ -5,7 +5,7 @@
 </h1>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a third year Computer Science Degree student :student: in Singapore University of Technology and Design (SUTD).
 
 - :telescope: I’m aspiring to be a Full-Stack web developer.
