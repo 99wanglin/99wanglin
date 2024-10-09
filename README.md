@@ -6,13 +6,13 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a third year Computer Science Degree student :student: in Singapore University of Technology and Design (SUTD).
+I am a Computer Science Degree fresh graduate :student: in Singapore University of Technology and Design (SUTD).
 
-- :telescope: I’m aspiring to be a Software Engineer.
+- :telescope: Currently working full time as a Software Engineer.
 
 - :point_right: I enjoy taking on new projects even if I have no experience before. My coding journey started only when I entered University and ever since then I have been looking for projects to do, side projects and Undergraduate Research Opportunities(UROP). I wish to be able to learn as much as possible at this early stage.
 
-- :seedling: I am currently assisting SUTD academia to develop a website for them to collect data in their design workshops.
+- :seedling: Assisted SUTD academia in researching and developing a website for them to collect data and evaluate effectiveness of Double Diamond process during design workshops.
 
 - :zap: In my free time, I enjoy doing outdoor sports and recently cycling has become my favourite sport.
 
